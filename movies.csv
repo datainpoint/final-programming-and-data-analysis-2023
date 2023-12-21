@@ -1,0 +1,251 @@
+id,title,release_year,runtime,rating,link
+1,The Shawshank Redemption,1994,142,9.3,https://www.imdb.com//title/tt0111161/
+2,The Godfather,1972,175,9.2,https://www.imdb.com//title/tt0068646/
+3,The Dark Knight,2008,152,9.0,https://www.imdb.com//title/tt0468569/
+4,The Godfather Part II,1974,202,9.0,https://www.imdb.com//title/tt0071562/
+5,12 Angry Men,1957,96,9.0,https://www.imdb.com//title/tt0050083/
+6,Schindler's List,1993,195,9.0,https://www.imdb.com//title/tt0108052/
+7,The Lord of the Rings: The Return of the King,2003,201,9.0,https://www.imdb.com//title/tt0167260/
+8,Pulp Fiction,1994,154,8.9,https://www.imdb.com//title/tt0110912/
+9,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,https://www.imdb.com//title/tt0120737/
+10,"The Good, the Bad and the Ugly",1966,178,8.8,https://www.imdb.com//title/tt0060196/
+11,Forrest Gump,1994,142,8.8,https://www.imdb.com//title/tt0109830/
+12,Fight Club,1999,139,8.8,https://www.imdb.com//title/tt0137523/
+13,The Lord of the Rings: The Two Towers,2002,179,8.8,https://www.imdb.com//title/tt0167261/
+14,Inception,2010,148,8.8,https://www.imdb.com//title/tt1375666/
+15,Spider-Man: Across the Spider-Verse,2023,140,8.9,https://www.imdb.com//title/tt9362722/
+16,Star Wars: Episode V - The Empire Strikes Back,1980,124,8.7,https://www.imdb.com//title/tt0080684/
+17,The Matrix,1999,136,8.7,https://www.imdb.com//title/tt0133093/
+18,Goodfellas,1990,145,8.7,https://www.imdb.com//title/tt0099685/
+19,One Flew Over the Cuckoo's Nest,1975,133,8.7,https://www.imdb.com//title/tt0073486/
+20,Se7en,1995,127,8.6,https://www.imdb.com//title/tt0114369/
+21,It's a Wonderful Life,1946,130,8.6,https://www.imdb.com//title/tt0038650/
+22,Seven Samurai,1954,207,8.6,https://www.imdb.com//title/tt0047478/
+23,Oppenheimer,2023,180,8.8,https://www.imdb.com//title/tt15398776/
+24,The Silence of the Lambs,1991,118,8.6,https://www.imdb.com//title/tt0102926/
+25,Interstellar,2014,169,8.7,https://www.imdb.com//title/tt0816692/
+26,Saving Private Ryan,1998,169,8.6,https://www.imdb.com//title/tt0120815/
+27,City of God,2002,130,8.6,https://www.imdb.com//title/tt0317248/
+28,Life Is Beautiful,1997,116,8.6,https://www.imdb.com//title/tt0118799/
+29,The Green Mile,1999,189,8.6,https://www.imdb.com//title/tt0120689/
+30,Star Wars: Episode IV - A New Hope,1977,121,8.6,https://www.imdb.com//title/tt0076759/
+31,Terminator 2: Judgment Day,1991,137,8.6,https://www.imdb.com//title/tt0103064/
+32,Back to the Future,1985,116,8.5,https://www.imdb.com//title/tt0088763/
+33,Spirited Away,2001,125,8.6,https://www.imdb.com//title/tt0245429/
+34,The Pianist,2002,150,8.5,https://www.imdb.com//title/tt0253474/
+35,Psycho,1960,109,8.5,https://www.imdb.com//title/tt0054215/
+36,Parasite,2019,132,8.5,https://www.imdb.com//title/tt6751668/
+37,Gladiator,2000,155,8.5,https://www.imdb.com//title/tt0172495/
+38,The Lion King,1994,88,8.5,https://www.imdb.com//title/tt0110357/
+39,Léon: The Professional,1994,110,8.5,https://www.imdb.com//title/tt0110413/
+40,American History X,1998,119,8.5,https://www.imdb.com//title/tt0120586/
+41,The Departed,2006,151,8.5,https://www.imdb.com//title/tt0407887/
+42,Whiplash,2014,106,8.5,https://www.imdb.com//title/tt2582802/
+43,The Prestige,2006,130,8.5,https://www.imdb.com//title/tt0482571/
+44,The Usual Suspects,1995,106,8.5,https://www.imdb.com//title/tt0114814/
+45,Casablanca,1942,102,8.5,https://www.imdb.com//title/tt0034583/
+46,Grave of the Fireflies,1988,89,8.5,https://www.imdb.com//title/tt0095327/
+47,Harakiri,1962,133,8.6,https://www.imdb.com//title/tt0056058/
+48,The Intouchables,2011,112,8.5,https://www.imdb.com//title/tt1675434/
+49,Modern Times,1936,87,8.5,https://www.imdb.com//title/tt0027977/
+50,Cinema Paradiso,1988,155,8.5,https://www.imdb.com//title/tt0095765/
+51,Once Upon a Time in the West,1968,165,8.5,https://www.imdb.com//title/tt0064116/
+52,Rear Window,1954,112,8.5,https://www.imdb.com//title/tt0047396/
+53,Alien,1979,117,8.5,https://www.imdb.com//title/tt0078748/
+54,City Lights,1931,87,8.5,https://www.imdb.com//title/tt0021749/
+55,Apocalypse Now,1979,147,8.4,https://www.imdb.com//title/tt0078788/
+56,Memento,2000,113,8.4,https://www.imdb.com//title/tt0209144/
+57,Django Unchained,2012,165,8.4,https://www.imdb.com//title/tt1853728/
+58,Raiders of the Lost Ark,1981,115,8.4,https://www.imdb.com//title/tt0082971/
+59,WALL·E,2008,98,8.4,https://www.imdb.com//title/tt0910970/
+60,The Lives of Others,2006,137,8.4,https://www.imdb.com//title/tt0405094/
+61,Sunset Blvd,1950,110,8.4,https://www.imdb.com//title/tt0043014/
+62,Paths of Glory,1957,88,8.4,https://www.imdb.com//title/tt0050825/
+63,Avengers: Infinity War,2018,149,8.4,https://www.imdb.com//title/tt4154756/
+64,The Shining,1980,146,8.4,https://www.imdb.com//title/tt0081505/
+65,The Great Dictator,1940,125,8.4,https://www.imdb.com//title/tt0032553/
+66,Witness for the Prosecution,1957,116,8.4,https://www.imdb.com//title/tt0051201/
+67,Spider-Man: Into the Spider-Verse,2018,117,8.4,https://www.imdb.com//title/tt4633694/
+68,Aliens,1986,137,8.4,https://www.imdb.com//title/tt0090605/
+69,American Beauty,1999,122,8.3,https://www.imdb.com//title/tt0169547/
+70,The Dark Knight Rises,2012,164,8.4,https://www.imdb.com//title/tt1345836/
+71,Dr,1964,95,8.4,https://www.imdb.com//title/tt0057012/
+72,Inglourious Basterds,2009,153,8.3,https://www.imdb.com//title/tt0361748/
+73,Oldboy,2003,120,8.4,https://www.imdb.com//title/tt0364569/
+74,Coco,2017,105,8.4,https://www.imdb.com//title/tt2380307/
+75,Amadeus,1984,160,8.4,https://www.imdb.com//title/tt0086879/
+76,Toy Story,1995,81,8.3,https://www.imdb.com//title/tt0114709/
+77,Braveheart,1995,178,8.3,https://www.imdb.com//title/tt0112573/
+78,Das Boot,1981,149,8.4,https://www.imdb.com//title/tt0082096/
+79,Joker,2019,122,8.4,https://www.imdb.com//title/tt7286456/
+80,Avengers: Endgame,2019,181,8.4,https://www.imdb.com//title/tt4154796/
+81,Princess Mononoke,1997,134,8.3,https://www.imdb.com//title/tt0119698/
+82,Good Will Hunting,1997,126,8.3,https://www.imdb.com//title/tt0119217/
+83,Once Upon a Time in America,1984,229,8.3,https://www.imdb.com//title/tt0087843/
+84,Your Name,2016,106,8.4,https://www.imdb.com//title/tt5311514/
+85,3 Idiots,2009,170,8.4,https://www.imdb.com//title/tt1187043/
+86,Singin' in the Rain,1952,103,8.3,https://www.imdb.com//title/tt0045152/
+87,High and Low,1963,143,8.4,https://www.imdb.com//title/tt0057565/
+88,Requiem for a Dream,2000,102,8.3,https://www.imdb.com//title/tt0180093/
+89,Capernaum,2018,126,8.4,https://www.imdb.com//title/tt8267604/
+90,Toy Story 3,2010,103,8.3,https://www.imdb.com//title/tt0435761/
+91,Come and See,1985,142,8.4,https://www.imdb.com//title/tt0091251/
+92,Star Wars: Episode VI - Return of the Jedi,1983,131,8.3,https://www.imdb.com//title/tt0086190/
+93,Eternal Sunshine of the Spotless Mind,2004,108,8.3,https://www.imdb.com//title/tt0338013/
+94,2001: A Space Odyssey,1968,149,8.3,https://www.imdb.com//title/tt0062622/
+95,The Hunt,2012,115,8.3,https://www.imdb.com//title/tt2106476/
+96,Reservoir Dogs,1992,99,8.3,https://www.imdb.com//title/tt0105236/
+97,Lawrence of Arabia,1962,218,8.3,https://www.imdb.com//title/tt0056172/
+98,Ikiru,1952,143,8.3,https://www.imdb.com//title/tt0044741/
+99,Citizen Kane,1941,119,8.3,https://www.imdb.com//title/tt0033467/
+100,M,1931,99,8.3,https://www.imdb.com//title/tt0022100/
+101,North by Northwest,1959,136,8.3,https://www.imdb.com//title/tt0053125/
+102,The Apartment,1960,125,8.3,https://www.imdb.com//title/tt0053604/
+103,Vertigo,1958,128,8.3,https://www.imdb.com//title/tt0052357/
+104,Amélie,2001,122,8.3,https://www.imdb.com//title/tt0211915/
+105,Double Indemnity,1944,107,8.3,https://www.imdb.com//title/tt0036775/
+106,Full Metal Jacket,1987,116,8.3,https://www.imdb.com//title/tt0093058/
+107,A Clockwork Orange,1971,136,8.3,https://www.imdb.com//title/tt0066921/
+108,Scarface,1983,170,8.3,https://www.imdb.com//title/tt0086250/
+109,Hamilton,2020,160,8.3,https://www.imdb.com//title/tt8503618/
+110,Incendies,2010,131,8.3,https://www.imdb.com//title/tt1255953/
+111,Heat,1995,170,8.3,https://www.imdb.com//title/tt0113277/
+112,Up,2009,96,8.3,https://www.imdb.com//title/tt1049413/
+113,To Kill a Mockingbird,1962,129,8.3,https://www.imdb.com//title/tt0056592/
+114,The Sting,1973,129,8.3,https://www.imdb.com//title/tt0070735/
+115,A Separation,2011,123,8.3,https://www.imdb.com//title/tt1832382/
+116,Indiana Jones and the Last Crusade,1989,127,8.2,https://www.imdb.com//title/tt0097576/
+117,Metropolis,1927,153,8.3,https://www.imdb.com//title/tt0017136/
+118,Die Hard,1988,132,8.2,https://www.imdb.com//title/tt0095016/
+119,L,1997,138,8.2,https://www.imdb.com//title/tt0119488/
+120,Snatch,2000,102,8.2,https://www.imdb.com//title/tt0208092/
+121,Bicycle Thieves,1948,89,8.3,https://www.imdb.com//title/tt0040522/
+122,Like Stars on Earth,2007,165,8.3,https://www.imdb.com//title/tt0986264/
+123,Taxi Driver,1976,114,8.2,https://www.imdb.com//title/tt0075314/
+124,1917,2019,119,8.2,https://www.imdb.com//title/tt8579674/
+125,Dangal,2016,161,8.3,https://www.imdb.com//title/tt5074352/
+126,Downfall,2004,156,8.2,https://www.imdb.com//title/tt0363163/
+127,Top Gun: Maverick,2022,130,8.3,https://www.imdb.com//title/tt1745960/
+128,For a Few Dollars More,1965,132,8.2,https://www.imdb.com//title/tt0059578/
+129,Batman Begins,2005,140,8.2,https://www.imdb.com//title/tt0372784/
+130,The Kid,1921,68,8.3,https://www.imdb.com//title/tt0012349/
+131,Some Like It Hot,1959,121,8.2,https://www.imdb.com//title/tt0053291/
+132,The Father,2020,97,8.2,https://www.imdb.com//title/tt10272386/
+133,The Wolf of Wall Street,2013,180,8.2,https://www.imdb.com//title/tt0993846/
+134,Green Book,2018,130,8.2,https://www.imdb.com//title/tt6966692/
+135,All About Eve,1950,138,8.2,https://www.imdb.com//title/tt0042192/
+136,Judgment at Nuremberg,1961,179,8.3,https://www.imdb.com//title/tt0055031/
+137,The Truman Show,1998,103,8.2,https://www.imdb.com//title/tt0120382/
+138,Ran,1985,162,8.2,https://www.imdb.com//title/tt0089881/
+139,Casino,1995,178,8.2,https://www.imdb.com//title/tt0112641/
+140,There Will Be Blood,2007,158,8.2,https://www.imdb.com//title/tt0469494/
+141,Pan's Labyrinth,2006,118,8.2,https://www.imdb.com//title/tt0457430/
+142,Shutter Island,2010,138,8.2,https://www.imdb.com//title/tt1130884/
+143,Unforgiven,1992,130,8.2,https://www.imdb.com//title/tt0105695/
+144,The Sixth Sense,1999,107,8.2,https://www.imdb.com//title/tt0167404/
+145,Jurassic Park,1993,127,8.2,https://www.imdb.com//title/tt0107290/
+146,A Beautiful Mind,2001,135,8.2,https://www.imdb.com//title/tt0268978/
+147,The Treasure of the Sierra Madre,1948,126,8.2,https://www.imdb.com//title/tt0040897/
+148,Yojimbo,1961,110,8.2,https://www.imdb.com//title/tt0055630/
+149,No Country for Old Men,2007,122,8.2,https://www.imdb.com//title/tt0477348/
+150,Monty Python and the Holy Grail,1975,91,8.2,https://www.imdb.com//title/tt0071853/
+151,Kill Bill: Vol,2003,111,8.2,https://www.imdb.com//title/tt0266697/
+152,The Great Escape,1963,172,8.2,https://www.imdb.com//title/tt0057115/
+153,The Thing,1982,109,8.2,https://www.imdb.com//title/tt0084787/
+154,Rashomon,1950,88,8.2,https://www.imdb.com//title/tt0042876/
+155,Finding Nemo,2003,100,8.2,https://www.imdb.com//title/tt0266543/
+156,The Elephant Man,1980,124,8.2,https://www.imdb.com//title/tt0080678/
+157,Spider-Man: No Way Home,2021,148,8.2,https://www.imdb.com//title/tt10872600/
+158,Chinatown,1974,130,8.2,https://www.imdb.com//title/tt0071315/
+159,V for Vendetta,2005,132,8.2,https://www.imdb.com//title/tt0434409/
+160,Raging Bull,1980,129,8.1,https://www.imdb.com//title/tt0081398/
+161,Gone with the Wind,1939,238,8.2,https://www.imdb.com//title/tt0031381/
+162,Dial M for Murder,1954,105,8.2,https://www.imdb.com//title/tt0046912/
+163,Howl's Moving Castle,2004,119,8.2,https://www.imdb.com//title/tt0347149/
+164,"Lock, Stock and Two Smoking Barrels",1998,107,8.1,https://www.imdb.com//title/tt0120735/
+165,The Secret in Their Eyes,2009,129,8.2,https://www.imdb.com//title/tt1305806/
+166,Inside Out,2015,95,8.1,https://www.imdb.com//title/tt2096673/
+167,Prisoners,2013,153,8.1,https://www.imdb.com//title/tt1392214/
+168,"Three Billboards Outside Ebbing, Missouri",2017,115,8.1,https://www.imdb.com//title/tt5027774/
+169,The Bridge on the River Kwai,1957,161,8.1,https://www.imdb.com//title/tt0050212/
+170,Trainspotting,1996,93,8.1,https://www.imdb.com//title/tt0117951/
+171,Fargo,1996,98,8.1,https://www.imdb.com//title/tt0116282/
+172,Warrior,2011,140,8.1,https://www.imdb.com//title/tt1291584/
+173,Gran Torino,2008,116,8.1,https://www.imdb.com//title/tt1205489/
+174,Catch Me If You Can,2002,141,8.1,https://www.imdb.com//title/tt0264464/
+175,My Neighbor Totoro,1988,86,8.1,https://www.imdb.com//title/tt0096283/
+176,Million Dollar Baby,2004,132,8.1,https://www.imdb.com//title/tt0405159/
+177,Children of Heaven,1997,89,8.2,https://www.imdb.com//title/tt0118849/
+178,Klaus,2019,96,8.2,https://www.imdb.com//title/tt4729430/
+179,Harry Potter and the Deathly Hallows: Part 2,2011,130,8.1,https://www.imdb.com//title/tt1201607/
+180,Blade Runner,1982,117,8.1,https://www.imdb.com//title/tt0083658/
+181,The Gold Rush,1925,95,8.1,https://www.imdb.com//title/tt0015864/
+182,12 Years a Slave,2013,134,8.1,https://www.imdb.com//title/tt2024544/
+183,Before Sunrise,1995,101,8.1,https://www.imdb.com//title/tt0112471/
+184,The Grand Budapest Hotel,2014,99,8.1,https://www.imdb.com//title/tt2278388/
+185,Ben-Hur,1959,212,8.1,https://www.imdb.com//title/tt0052618/
+186,Gone Girl,2014,149,8.1,https://www.imdb.com//title/tt2267998/
+187,On the Waterfront,1954,108,8.1,https://www.imdb.com//title/tt0047296/
+188,Barry Lyndon,1975,185,8.1,https://www.imdb.com//title/tt0072684/
+189,The General,1926,78,8.1,https://www.imdb.com//title/tt0017925/
+190,In the Name of the Father,1993,133,8.1,https://www.imdb.com//title/tt0107207/
+191,Hacksaw Ridge,2016,139,8.1,https://www.imdb.com//title/tt2119532/
+192,The Deer Hunter,1978,183,8.1,https://www.imdb.com//title/tt0077416/
+193,Wild Strawberries,1957,91,8.1,https://www.imdb.com//title/tt0050986/
+194,The Third Man,1949,93,8.1,https://www.imdb.com//title/tt0041959/
+195,Memories of Murder,2003,132,8.1,https://www.imdb.com//title/tt0353969/
+196,The Wages of Fear,1953,131,8.2,https://www.imdb.com//title/tt0046268/
+197,Sherlock Jr,1924,45,8.2,https://www.imdb.com//title/tt0015324/
+198,Wild Tales,2014,122,8.1,https://www.imdb.com//title/tt3011894/
+199,Mr,1939,129,8.1,https://www.imdb.com//title/tt0031679/
+200,Mad Max: Fury Road,2015,120,8.1,https://www.imdb.com//title/tt1392190/
+201,Dead Poets Society,1989,128,8.1,https://www.imdb.com//title/tt0097165/
+202,"Monsters, Inc",2001,92,8.1,https://www.imdb.com//title/tt0198781/
+203,Mary and Max,2009,92,8.1,https://www.imdb.com//title/tt0978762/
+204,How to Train Your Dragon,2010,98,8.1,https://www.imdb.com//title/tt0892769/
+205,Jaws,1975,124,8.1,https://www.imdb.com//title/tt0073195/
+206,The Seventh Seal,1957,96,8.1,https://www.imdb.com//title/tt0050976/
+207,Room,2015,118,8.1,https://www.imdb.com//title/tt3170832/
+208,The Big Lebowski,1998,117,8.1,https://www.imdb.com//title/tt0118715/
+209,Tokyo Story,1953,136,8.2,https://www.imdb.com//title/tt0046438/
+210,Ford v Ferrari,2019,152,8.1,https://www.imdb.com//title/tt1950186/
+211,Ratatouille,2007,111,8.1,https://www.imdb.com//title/tt0382932/
+212,The Passion of Joan of Arc,1928,114,8.2,https://www.imdb.com//title/tt0019254/
+213,Hotel Rwanda,2004,121,8.1,https://www.imdb.com//title/tt0395169/
+214,Rocky,1976,120,8.1,https://www.imdb.com//title/tt0075148/
+215,Platoon,1986,120,8.1,https://www.imdb.com//title/tt0091763/
+216,Logan,2017,137,8.1,https://www.imdb.com//title/tt3315342/
+217,Spotlight,2015,129,8.1,https://www.imdb.com//title/tt1895587/
+218,The Terminator,1984,107,8.1,https://www.imdb.com//title/tt0088247/
+219,Jai Bhim,2021,164,8.8,https://www.imdb.com//title/tt15097216/
+220,Before Sunset,2004,80,8.1,https://www.imdb.com//title/tt0381681/
+221,Rush,2013,123,8.1,https://www.imdb.com//title/tt1979320/
+222,Network,1976,121,8.1,https://www.imdb.com//title/tt0074958/
+223,Stand by Me,1986,89,8.1,https://www.imdb.com//title/tt0092005/
+224,The Best Years of Our Lives,1946,170,8.1,https://www.imdb.com//title/tt0036868/
+225,Into the Wild,2007,148,8.1,https://www.imdb.com//title/tt0758758/
+226,The Wizard of Oz,1939,102,8.1,https://www.imdb.com//title/tt0032138/
+227,La haine,1995,98,8.1,https://www.imdb.com//title/tt0113247/
+228,The Incredibles,2004,115,8.0,https://www.imdb.com//title/tt0317705/
+229,The Exorcist,1973,122,8.1,https://www.imdb.com//title/tt0070047/
+230,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,8.1,https://www.imdb.com//title/tt0325980/
+231,To Be or Not to Be,1942,99,8.2,https://www.imdb.com//title/tt0035446/
+232,Groundhog Day,1993,101,8.0,https://www.imdb.com//title/tt0107048/
+233,The Grapes of Wrath,1940,129,8.1,https://www.imdb.com//title/tt0032551/
+234,My Father and My Son,2005,112,8.2,https://www.imdb.com//title/tt0476735/
+235,The Battle of Algiers,1966,121,8.1,https://www.imdb.com//title/tt0058946/
+236,Hachi: A Dog's Tale,2009,93,8.1,https://www.imdb.com//title/tt1028532/
+237,The Handmaiden,2016,145,8.1,https://www.imdb.com//title/tt4016934/
+238,Amores Perros,2000,154,8.1,https://www.imdb.com//title/tt0245712/
+239,Pather Panchali,1955,125,8.2,https://www.imdb.com//title/tt0048473/
+240,Rebecca,1940,130,8.1,https://www.imdb.com//title/tt0032976/
+241,Cool Hand Luke,1967,127,8.1,https://www.imdb.com//title/tt0061512/
+242,The Sound of Music,1965,172,8.1,https://www.imdb.com//title/tt0059742/
+243,It Happened One Night,1934,105,8.1,https://www.imdb.com//title/tt0025316/
+244,The 400 Blows,1959,99,8.1,https://www.imdb.com//title/tt0053198/
+245,Persona,1966,83,8.1,https://www.imdb.com//title/tt0060827/
+246,The Iron Giant,1999,86,8.1,https://www.imdb.com//title/tt0129167/
+247,The Help,2011,146,8.1,https://www.imdb.com//title/tt1454029/
+248,Life of Brian,1979,94,8.0,https://www.imdb.com//title/tt0079470/
+249,Aladdin,1992,90,8.0,https://www.imdb.com//title/tt0103639/
+250,Drishyam,2015,163,8.2,https://www.imdb.com//title/tt4430212/
